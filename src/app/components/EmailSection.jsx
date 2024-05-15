@@ -25,9 +25,9 @@ const EmailSection = () => {
             <li className=" font-normal">Tel: 1164343696</li>
           </ul>
         </div>
-        <div className="socials inline-block p-1 rounded-lg gap-2  bg-pink-700">
+        <div className="socials inline-block p-1 rounded-lg gap-2  bg-blue-600">
           <Link
-            href="https://www.linkedin.com/in/flavio-arzamendia-salinas"
+            href="/"
             target="_blank"
           >
             <Image src={LinkedinIcon} alt="Linkedin Icon" />
