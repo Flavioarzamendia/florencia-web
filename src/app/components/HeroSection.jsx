@@ -15,9 +15,9 @@ const HeroSection = () => {
           transition={{ duration: 0.5 }}
           className="col-span-8 place-self-center  sm:text-left justify-self-start"
         >
-          <h1 className="text-black mb-4 text-5xl sm:text-6xl lg:text-8xl lg:leading-normal font-extrabold">
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-pink-600 via-purple-500 to-blue-600">
-              Hola!, Soy Florencia{" "}
+          <h1 className="text-gray-900 mb-4 uppercase text-5xl sm:text-6xl lg:text-7xl lg:leading-normal font-extrabold text-center md:text-left">
+            <span className="text-transparent  bg-clip-text bg-gradient-to-r from-pink-600 via-purple-500 to-blue-600">
+              Florencia Astudillo{" "}
             </span>
             <br></br>
             <TypeAnimation
@@ -33,7 +33,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-gray-900 font-semibold text-base sm:text-lg mb-6 lg:text-xl pt-5 md:mr-10 text-start">
-          Fotografiar, especializada en fotoperiodismo, en constante aprendizaje y exploración creativa
+          Fotografa, especializada en fotoperiodismo, en constante aprendizaje y exploración creativa.
           </p>
           <div>
             <button className="px-0.5 transition-all duration-300 py-0.5 w-full sm:w-fit rounded-md mr-4 bg-pink-600 hover:bg-transparent text-white">
